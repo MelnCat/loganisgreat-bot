@@ -1,0 +1,16 @@
+{
+  "name": "loganisgreat-bot",
+  "version": "1.2.2",
+  "description": "A discord chatbot designed to provide funny responses!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Logan Devine",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {}
+}
