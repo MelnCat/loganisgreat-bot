@@ -4,7 +4,7 @@
   "description": "A discord chatbot designed to provide funny responses!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
     "npm start": "node ."
   },
   "author": "Logan Devine",
